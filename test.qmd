@@ -11,3 +11,5 @@ format:
 ## 
 Check out [daggity](http://www.dagitty.net/dags.html){preview-link="true"}
 
+Check out [matplotlib](https://matplotlib.org/){preview-link="true"}
+
