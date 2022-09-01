@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
+  search: true
   title: "quarto-test-site"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: test.qmd
+        text: Slides
 
 format:
   html:

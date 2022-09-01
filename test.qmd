@@ -1,0 +1,13 @@
+---
+title: "test"
+format:
+  revealjs:
+    chalkboard: true
+    preview-links: auto
+---
+
+## {background-image="https://media2.giphy.com/media/z3HLBSikmgCcIdjnCU/giphy.gif?cid=ecf05e4727i9uakz4w3xdyowqzydcemdroytcw4bhgreythb&rid=giphy.gif&ct=g" background-size="constrain" background-opacity="0.5"}
+
+## 
+Check out [daggity](http://www.dagitty.net/dags.html){preview-link="true"}
+
